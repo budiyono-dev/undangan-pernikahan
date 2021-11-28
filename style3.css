@@ -164,4 +164,10 @@
     p {
         line-height: 150%;
     }
+    .message {
+        font-size: 12px;
+        line-height: 12px;
+        bottom: 1px;
+        right: 10px;
+    }
 }
